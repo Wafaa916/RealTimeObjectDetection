@@ -1,0 +1,1 @@
+kaggle datasets download -d datamunge/sign-language-mnist
